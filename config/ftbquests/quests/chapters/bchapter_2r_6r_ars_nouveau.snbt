@@ -12,7 +12,7 @@
 			title: "神秘的魔法"
 			icon: "ars_nouveau:glyph_blink"
 			x: -4.5d
-			y: 3.75d
+			y: 3.7d
 			shape: "square"
 			dependencies: [
 				"774870F62D6F3E8A"
@@ -203,9 +203,9 @@
 					item: "ars_nouveau:glyph_gravity"
 				}
 				{
-					id: "66B100C4A849C9F3"
+					id: "66F48A100668E9D5"
 					type: "item"
-					item: "ars_nouveau:glyph_flare"
+					item: "ars_nouveau:glyph_enderstorage_tank"
 				}
 				{
 					id: "171B5396DD6EDA76"
@@ -1129,17 +1129,17 @@
 				table_id: 7001957974459087103L
 			}]
 		}
-		{
+				{
 			title: "法术"
 			x: -6.0d
 			y: 0.0d
-			subtitle: "解锁新法术!"
+			subtitle: "解锁新的法术!"
 			dependencies: [
 				"4AF2D320ACBA99E3"
 				"31936ED1790DA9BF"
 				"36D7AB33ECC0C810"
 	]
-			optional: true
+				optional: true
 			id: "631376636D8624B1"
 			tasks: [{
 				id: "3A1B3D46DD2B41F2"

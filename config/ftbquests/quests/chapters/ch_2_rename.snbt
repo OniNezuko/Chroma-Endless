@@ -1028,7 +1028,6 @@
 				"9x钢块[--9x Block of Steel--]"
 			]
 			dependencies: [
-				"716FBC2A2B0FED39"
 				"295FDDB62528FA0D"
 				"1CD4B02E543E84A8"
 			]
@@ -1274,7 +1273,7 @@
 				"045x混凝土方块[--045x Concrete Tile--]"
 				"088x钢栅栏[--088x Steel Fence--]"
 				"162x铁金属板[--162x Iron Sheetmetal--]"
-				"045x钢脚手架台阶[--045x Steel Scaffolding Slab--]"
+				"046x钢脚手架台阶[--045x Steel Scaffolding Slab--]"
 				"047x流体管道[--047x Fluid Pipe--]"
 				"003x钢结构臂[--003x Steel Structural Arm--]"
 				"005x重型工程方块[--005x Heavy Engineering Blocks--]"
@@ -1591,7 +1590,6 @@
 			x: -5.5d
 			y: 15.25d
 			dependencies: [
-				"75CED07646EE8601"
 				"0C5279A8EE03DC68"
 				"73E8B8A555B9C63E"
 			]

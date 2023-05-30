@@ -545,7 +545,27 @@
 			tasks: [{
 				id: "58EDDC2C7CE85DC7"
 				type: "item"
-				item: "refinedstorage:fortune_1_upgrade"
+				title: "Fortune Upgrade"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "refinedstorage:fortune_1_upgrade"
+								Count: 1b
+							}
+							{
+								id: "refinedstorage:fortune_2_upgrade"
+								Count: 1b
+							}
+							{
+								id: "refinedstorage:fortune_3_upgrade"
+								Count: 1b
+							}
+						]
+					}
+				}
 			}]
 			rewards: [{
 				id: "461EF9C68F17D978"
@@ -925,7 +945,8 @@
 				""
 				"&b样板&r是一个用于自动合成的物品。它存储着用于自动合成的配方。"
 			]
-			dependencies: ["6DBC1BDEBCAD61B0"]
+			hide_dependency_lines: true
+			dependencies: ["4A8902E267157E88"]
 			size: 1.5d
 			id: "10244EFD9DDFBECB"
 			tasks: [

@@ -1810,7 +1810,11 @@
 			x: 0.0d
 			y: 19.0d
 			shape: "gear"
-			description: ["一个多方块结构，允许您自动化&6锻造台&r！"]
+			description: [
+			"一个多方块结构，允许您自动化&6锻造台&r！"
+			""
+			"&c&l注意 :&r&c 你只需要2个预热器，而不是像投影所示的6个。"
+			]
 			hide_dependency_lines: true
 			dependencies: [
 				"56D83790E33B0765"
@@ -1888,12 +1892,6 @@
 					type: "item"
 					item: "immersiveengineering:treated_wood_horizontal"
 					count: 78L
-				}
-				{
-					id: "743CA6A6BDD2F49E"
-					type: "item"
-					item: "thermal:obsidian_glass"
-					count: 3L
 				}
 			]
 			rewards: [{

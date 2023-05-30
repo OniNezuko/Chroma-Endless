@@ -1592,6 +1592,7 @@
 			icon: "tardis:space_chest"
 			x: -61.25d
 			y: -15.25d
+			description: ["每个组件都可以作为战利品，在世界范围内坠毁的建筑中的船舶计算机、世界范围内的Dalek船和空间维度的空间站中找到。"]
 			dependencies: ["6C5A409004043E59"]
 			id: "43C1622EE516C74D"
 			tasks: [
